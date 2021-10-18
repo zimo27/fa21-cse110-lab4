@@ -9,8 +9,8 @@
 9.  It returns an error as i is not defined locally. The previous i is only visible within the for loop.
 10.  It prints "2" since length is accessible and its value is unchanged.
 11.  The function returns an array [50, 100, 150]. For each for loop, the calculated final price is pushed into the array. Discounted is not reassigned.
-12.  A. student.name/
-B. student['Grad Year']/
-C. student.greeting()/
-D. student['Favorite Teacher'].name/
-E. student.courseLoad[0]/
+12.  A. student.name\
+B. student['Grad Year']\
+C. student.greeting()\
+D. student['Favorite Teacher'].name\
+E. student.courseLoad[0]\
