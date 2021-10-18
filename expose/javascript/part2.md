@@ -30,4 +30,4 @@ E. false, true converts to 1 in number\
 F. true, Boolean(2) is true, which strictly equals to true
 15. === does not convert values of comparison as == does. If two values are of different types, === directly results in false, while == firstly converts one value to the same type of the other.
 17. The result is [2,4,6]. When running each loop of the for loop of function ModifyArray, the code calls the doSomething function and multiply the value from input array by 2 and push it into the newArr.
-19. 
+19. 1432
